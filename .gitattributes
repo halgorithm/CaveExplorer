@@ -1,0 +1,10 @@
+# Automatically normalize line endings (CRLF -> LF) on commit
+*.html   text
+*.js     text
+*.css    text
+*.scss   text
+*.json   text
+*.csv    text
+*.glsl   text
+*.md     text
+*.txt    text

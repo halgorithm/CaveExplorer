@@ -1,0 +1,3 @@
+- Room loading
+- Treasure Chest with money
+- Get exp/money from killed enemies
